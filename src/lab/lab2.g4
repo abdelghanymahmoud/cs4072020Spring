@@ -39,6 +39,5 @@ recursion in antlr
 3- if else
 4- precedence of * / + -
 5- String data type "lkjldkasj"
-6- parameters of the function
-7- for, while, do loops
+6- for, while, do loops
 */
